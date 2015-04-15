@@ -1,9 +1,9 @@
-Building runcoin
+Building twitcoin
 
-See doc/readme-qt.rst for instructions on building runcoin-qt,
+See doc/readme-qt.rst for instructions on building twitcoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of runcoin.
+implementation of twitcoin.
 
-See doc/build-*.txt for instructions on building runcoin,
+See doc/build-*.txt for instructions on building twitcoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of runcoin.
+implementation of twitcoin.
